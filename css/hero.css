@@ -24,6 +24,7 @@ header h1{
 
 header img{
   border-radius: 50%;
+  width: 300px;
   border: 15px solid #581920;
 }
 
@@ -37,6 +38,9 @@ main img{
   max-width: 100%;
 }
 
+main p{
+  text-indent: 40px;
+}
 h2{
   font-size: 40px;
   color: #B12621;
